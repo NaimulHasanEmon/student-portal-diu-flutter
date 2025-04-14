@@ -1,4 +1,4 @@
-# student_portal_diu_flutter
+# student_portal_diu_using_flutter
 
 A new Flutter project.
 
